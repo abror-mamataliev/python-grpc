@@ -1,0 +1,2 @@
+﻿grpcio
+grpcio-tools
